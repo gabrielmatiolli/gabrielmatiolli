@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer.<br>I'm 17 years old.<br>Technical in Software Developer.<br>I'm in the last semester of the technical computer course integrated into high school.<br>I'm very creative and great at problem solving.
+Full-Stack Developer.<br>I'm 17 years old.<br>Technical in Software Developer.<br>Technical in computing.<br>I'm very creative and great at problem solving.
 
 
 ## 🌐 Socials:
