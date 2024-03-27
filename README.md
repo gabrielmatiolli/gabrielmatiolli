@@ -1,5 +1,8 @@
 # 💫 About Me:
 I am a young person passionate about programming since 2020. I always seek to learn new content to improve my skills so that I can apply them in any kind of situation.
+- Studying Bachelor's Degree in Software Engineering at FIAP.
+- Computer Technician
+- Systems Development Technician
 
 
 ## 🌐 Socials:
