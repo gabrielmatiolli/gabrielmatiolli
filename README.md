@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a young person passionate about programming since 2020.<br>I'm studying Bachelor's Degree in Software Engineering at FIAP.<br>I'm a Computer Technician and Systems Development Technician.<br>I'm mastering TypeScript to Front and Back-end.
+- I'm a young person passionate about programming since 2020.
+- I'm studying Bachelor's Degree in Software Engineering at FIAP.
+- I'm a Computer Technician and Systems Development Technician.
+- I'm mastering TypeScript to Front and Back-end.
 
 
 ## 🌐 Socials:
