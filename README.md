@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">Junior systems developer technician at Elo Solutions;<br><br>Studying for a bachelor's degree in software engineering;<br><br>Graduated as a systems development technician and a computer technician for the internet</h6>
+<h4 align="left">Junior systems developer technician at Elo Solutions;<br><br>Studying for a bachelor's degree in software engineering;<br><br>Graduated as a systems development technician and a computer technician for the internet</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">Languages and frameworks</h5>
+<h3 align="left">Languages and frameworks</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h5 align="left">Databases and productivity</h5>
+<h3 align="left">Databases and productivity</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h5 align="left">DevOps and tools</h5>
+<h3 align="left">DevOps and tools</h3>
 
 ###
 
