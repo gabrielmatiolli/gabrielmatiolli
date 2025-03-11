@@ -2,8 +2,7 @@
 
 ###
 
-<h4 align="left">Junior systems developer technician at Elo Solutions;<br><br>Studying for a bachelor's degree in software engineering;<br><br>Technical Degree in Systems Development and Technical Degree in Internet Informatics
-t</h4>
+<h4 align="left">Junior systems developer technician at Elo Solutions;<br><br>Studying for a bachelor's degree in software engineering;<br><br>Technical degree in systems development and technical degree in internet informatics</h4>
 
 ###
 
